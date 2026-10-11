@@ -95,7 +95,6 @@ footer_img: transparent
 # If an array is provided, a random background will be selected from the array on each load
 background: https://img.remit.ee/i/BcqzTzPEOAWg
 
-post_img: transparent
 
 cover:
   # Disable the cover or not
